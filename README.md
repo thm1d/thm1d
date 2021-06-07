@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm @thm1d
-#### Here is some details about me that you may find useful.
+#### Here are some details about me that you may find useful.
 
 <!--
 **thm1d/thm1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
