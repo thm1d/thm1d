@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 👀 I’m interested in PHP, LARAVEL, PYTHON, DJANGO, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, COMPETITIVE PROGRAMMING.
-- 🔭 I’m currently working on LARAVEL, DJANGO, PYTHON
-- 🌱 I’m currently learning DJANGO
-- 👯 I’m looking to collaborate on LARAVEL PROJECTS
-- 🤔 I’m looking for help with REACT
+- 👀 Interested in PHP, LARAVEL, PYTHON, DJANGO, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, COMPETITIVE PROGRAMMING.
+- 🔭 Currently working on LARAVEL, DJANGO, PYTHON
+- 🌱 Currently learning DJANGO
+- 👯 Looking to collaborate on LARAVEL PROJECTS
+- 🤔 Looking for help with REACT
 
 - 📫 How to reach me: tahmidrahman.170121@s.pust.ac.bd
 
