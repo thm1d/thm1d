@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 
 
+"Life is the most difficult exam. Most people fail because they try to copy others; meanwhile everyone has a different question paper!"
