@@ -1,19 +1,15 @@
-### Hi there 👋 I'm @thm1d
-#### Here are some details about me that you may find useful.
+### Hi there 👋, my name is Tahmid.
+I am from Bangladesh, currently pursuing Bachelor's Degree in Computer Science & Engineering. 
 
-<!--
-**thm1d/thm1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 👀 Interested in PHP, LARAVEL, PYTHON, DJANGO, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, COMPETITIVE PROGRAMMING.
-- 🔭 Currently working on LARAVEL, DJANGO, PYTHON
-- 🌱 Currently learning DJANGO
-- 👯 Looking to collaborate on LARAVEL PROJECTS
-- 🤔 Looking for help with REACT
+- 🔭 Currently working on PYTHON & DJANGO 
+- 🌱 Currently learning REACT 
+- 👯 Looking to collaborate on LARAVEL Projects 
+- 🤔 Looking for help with REACT & ANGULAR 
+- 📫 How to reach me: tahmidrahman.170121@s.pust.ac.bd 
 
-- 📫 How to reach me: tahmidrahman.170121@s.pust.ac.bd
+## Skills: 
+
+LARAVEL  |  DJANGO  |  REACT  |  PHP  |  PYTHON  |  JS  |  HTML  |  CSS
 
 
-
-"Life is the most difficult exam. Most people fail because they try to copy others; meanwhile everyone has a different question paper!"
