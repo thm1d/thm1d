@@ -32,7 +32,7 @@
 
 
 <h3 align="left">Others </h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://code.visualstudio.com/"><img src="https://i.ibb.co/gDdym4z/Visual-Studio-Code-1-35-icon-svg.png" alt="Visual-Studio-Code-1-35-icon-svg" border="0" height="60" weight="60"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://i.ibb.co/yNdYt5R/touchicon-180.png" alt="git" width="60" height="60"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code-1-35-icon-svg" border="0" height="60" weight="60"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="git" width="60" height="60"/> </a> </p>
 
 <h3 align="left">Connect With Me </h3>
 <p align="left">
