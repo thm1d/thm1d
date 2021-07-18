@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Tahmid</h1>
 <h3 align="center">I am from Bangladesh, currently pursuing Bachelor's Degree in Computer Science & Engineering.</h3>
 
-- 🔭 Currently working on **PYTHON & DJANGO**
+- 🔭 Currently working on **DJANGO & REACT**
 
 - 🌱 Currently learning **REACT**
 
