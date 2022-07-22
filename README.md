@@ -1,45 +1,71 @@
-<h1 align="center">Hi 👋, my name is Tahmid</h1>
-<h3 align="center">I am from Bangladesh, currently pursuing Bachelor's Degree in Computer Science & Engineering.</h3>
 
-- 🔭 Currently working on **DJANGO & REACT**
-
-- 🌱 Currently learning **REACT**
-
-- 👯 Looking to collaborate on **DJANGO Projects**
-
-- 🤝 Looking for help with **REACT & ANGULAR**
-
-- 👀 Special Interest in **MACHINE LEARNING** & **ARTIFICIAL INTELLIGENCE**.
-
-- 📫 How to reach me **tahmidrahman.170121@s.pust.ac.bd**
+# 🚀 about
+  
+- 👦 Tahmid Rahman
+- 📫 tahmidrahman.170121@s.pust.ac.bd
+- 🤔 Carpe Diem
 
 
-<h2 align="left">Skills </h2>
-<h3 align="left">Programming Language </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>  </p>
-
-<h3 align="left">Front End Development </h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_bla nk"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://alpinejs.dev/" target="_blank"><img src="https://i.ibb.co/MCgcHMp/alpinejs.png" alt="alpinejs" border="0" height="50" weight="50"></a> </p>
-
-<h3 align="left">Back End Development </h3>
-<p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> </p>
-
-<h3 align="left">Framework </h3>
-<p align="left"> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/> </a> </p>
-
-<h3 align="left">Database </h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a> </p>
 
 
-<h3 align="left">Others </h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code-1-35-icon-svg" border="0" height="60" weight="60"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="git" width="60" height="60"/> </a> </p>
 
-<h3 align="left">Connect With Me </h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahmid-rahman-43b42b141" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahmid-rahman-43b42b141" height="40" width="40" /></a>
-</p>
+# 🛠 Tech Stack
 
-<h2 align="left">Hobbies </h2>
+> skills
+
+- 🔭 back-end： ![PHP](https://img.shields.io/badge/-PHP-red?style=flat-circle&logo=php)![Django](https://img.shields.io/badge/-Django-blue?style=flat-circle&logo=django)![Laravel](https://img.shields.io/badge/-Laravel-green?style=flat-circle&logo=laravel)
+
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-gray?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-orange?style=flat-circle&logo=css3)![Jquery](https://img.shields.io/badge/-Jquery-pink?style=flat-circle&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-aqua?style=flat-circle&logo=Bootstrap)
+
+- :hammer_and_wrench: tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-circle&logo=sublimetext) ![Jupyter](https://img.shields.io/badge/-Jupyter-magenta?style=flat-circle&logo=Jupyter)
+![Insomnia](https://img.shields.io/badge/-Insomnia-blue?style=flat-circle&logo=insomnia)
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+
+- 💻 db：![Mysql](https://img.shields.io/badge/-Mysql-skyblue?style=flat-circle&logo=mysql)![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
+
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![  OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat-circle&logo=OpenCV)![ TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-circle&logo=tensorflow)
+- 
+
+  
+
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=thm1d&theme=gruvbox_light&layout=compact"/>
+</div>
+
+
+> Code analysis
+
+
+
+
+
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=thm1d"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=thm1d&theme=github"/>
+</div>
+
+
+# 🌱Social
+
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=thm1d&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
+
+# 📶Stat
+
+![](https://stats.justsong.cn/api/github?username=thm1d)
+
+
+# 🎆Hobbies
 
 - ⚡ Gaming
 
